@@ -20,7 +20,7 @@ The two workshops each have a primary goal. In workshop #1, the goal is to make 
 
 In this workshop we will start at the very beginning of SuperCollider, assuming you don't yet know anything about SuperCollider. 
 
-We will start by learning how to make simple sounds, then modulating those sounds, and finally adding effects to them. We will go through all the basics of SuperCollider in a practical way, building up from a single tone all the way to making a [space drone](https://raw.githubusercontent.com/schollz/ambulation/main/droning/55hz_spacedrone.mp3)!
+We will start by learning how to make simple sounds, then modulating those sounds, and finally adding effects to them. We will go through all the basics of SuperCollider in a practical way, building up from a single tone all the way to making a [space drone](https://raw.githubusercontent.com/schollz/workshops/main/2021-08-music-hackspace-supercollider/droning/55hz_spacedrone.mp3)!
 
 ### Part 0: before you begin
 
